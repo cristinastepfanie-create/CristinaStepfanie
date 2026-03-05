@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>✨ Portafolio de Stepfanie</title>
+    
+    <!-- Font Awesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- DevIcons para tecnologías -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+    
+    <!-- Tu hoja de estilos -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <!-- 🌸 Contenedor de pétalos cayendo -->
+    <div class="petals-container" id="petalsContainer"></div>
+    
+    <!-- 🌸 ENCABEZADO -->
+    <header class="header">
+        <div class="header-content">
+            <h1 class="name">🌸 Stepfanie <span class="wave">👋</span></h1>
+            <p class="location">
+                <i class="fas fa-map-marker-alt"></i> Santiago, Chile 🇨🇱
+            </p>
+            <p class="subtitle">✨ Aprendiz de Desarrollo Web ✨</p>
+        </div>
+    </header>
+    
+    <!-- 🖼️ BANNER PERSONALIZADO -->
+    <section class="banner-section">
+        <div class="banner-container">
+            <!-- ⚠️ CAMBIA ESTA IMAGEN POR TU BANNER PERSONALIZADO -->
+            <img src="https://via.placeholder.com/1200x400/ffb6c1/ffffff?text=Tu+Banner+Personalizado+🎨" 
+                 alt="Banner Personalizado" 
+                 class="banner-image">
+        </div>
+    </section>
+    
+    <!-- 💻 TECNOLOGÍAS -->
+    <section class="tech-section">
+        <h2 class="section-title">💻 Mis Tecnologías</h2>
+        <div class="tech-icons">
+            <div class="tech-item">
+                <i class="devicon-html5-plain colored tech-icon"></i>
+                <span>HTML5</span>
+            </div>
+            <div class="tech-item">
+                <i class="devicon-css3-plain colored tech-icon"></i>
+                <span>CSS3</span>
+            </div>
+            <div class="tech-item">
+                <i class="devicon-javascript-plain colored tech-icon"></i>
+                <span>JavaScript</span>
+            </div>
+        </div>
+    </section>
+    
+    <!-- 🤝 CONECTEMOS -->
+    <section class="connect-section">
+        <h2 class="section-title">🤝 Conectemos</h2>
+        <p class="connect-message">
+            💖 Me encantaría conocer gente y compartir experiencias
+        </p>
+        <div class="social-links">
+            <a href="https://linkedin.com/in/tu-usuario" target="_blank" class="social-link linkedin">
+                <i class="fab fa-linkedin"></i>
+                <span>LinkedIn</span>
+            </a>
+            <a href="mailto:tu-email@gmail.com" class="social-link gmail">
+                <i class="fas fa-envelope"></i>
+                <span>Gmail</span>
+            </a>
+            <a href="https://github.com/tu-usuario" target="_blank" class="social-link github">
+                <i class="fab fa-github"></i>
+                <span>GitHub</span>
+            </a>
+        </div>
+    </section>
+    
+    <!-- 📱 PROYECTOS DESTACADOS -->
+    <section class="projects-section">
+        <h2 class="section-title">🚀 Proyectos Destacados</h2>
+        <div class="projects-grid">
+            
+            <!-- Proyecto 1: App Bursátil -->
+            <div class="project-card">
+                <div class="project-image">
+                    <!-- ⚠️ CAMBIA POR LA IMAGEN DE TU APP -->
+                    <img src="https://via.placeholder.com/400x250/87ceeb/ffffff?text=App+Bursátil+📊" 
+                         alt="App Bursátil">
+                </div>
+                <div class="project-content">
+                    <h3>📊 App Bursátil</h3>
+                    <p>Aplicación para seguir el mercado de valores en tiempo real. 
+                       Mi primer gran proyecto financiero.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">API</span>
+                        <span class="tech-tag">CSS</span>
+                    </div>
+                    <div class="project-buttons">
+                        <a href="#" class="btn btn-code">
+                            <i class="fab fa-github"></i> Código
+                        </a>
+                        <a href="#" class="btn btn-demo">
+                            <i class="fas fa-play"></i> Demo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Proyecto 2: Juego del Pollito -->
+            <div class="project-card">
+                <div class="project-image">
+                    <!-- ⚠️ CAMBIA POR LA IMAGEN DE TU JUEGO -->
+                    <img src="https://via.placeholder.com/400x250/ffb6c1/ffffff?text=Juego+Pollito+🐣" 
+                         alt="Juego del Pollito">
+                </div>
+                <div class="project-content">
+                    <h3>🐣 Juego del Pollito</h3>
+                    <p>Juego interactivo creado mientras aprendía JavaScript. 
+                       ¡Divertido y lleno de animaciones!</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                    </div>
+                    <div class="project-buttons">
+                        <a href="#" class="btn btn-code">
+                            <i class="fab fa-github"></i> Código
+                        </a>
+                        <a href="#" class="btn btn-demo">
+                            <i class="fas fa-play"></i> Demo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+    
+    <!-- 📦 MIS 6 REPOSITORIOS IMPORTANTES -->
+    <section class="repos-section">
+        <h2 class="section-title">📦 Mis 6 Repositorios Top</h2>
+        <div class="repos-grid">
+            
+            <!-- Repo 1 -->
+            <div class="repo-card">
+                <div class="repo-header">
+                    <i class="fas fa-folder repo-icon"></i>
+                    <span class="repo-visibility">Público</span>
+                </div>
+                <h3 class="repo-name">
+                    <a href="#" target="_blank">Proyecto-1</a>
+                </h3>
+                <p class="repo-description">Descripción corta de tu primer repositorio importante.</p>
+                <div class="repo-stats">
+                    <span class="repo-lang">
+                        <span class="lang-color" style="background: #f1e05a;"></span>
+                        JavaScript
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-star"></i> 0
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-code-branch"></i> 0
+                    </span>
+                </div>
+            </div>
+            
+            <!-- Repo 2 -->
+            <div class="repo-card">
+                <div class="repo-header">
+                    <i class="fas fa-folder repo-icon"></i>
+                    <span class="repo-visibility">Público</span>
+                </div>
+                <h3 class="repo-name">
+                    <a href="#" target="_blank">Proyecto-2</a>
+                </h3>
+                <p class="repo-description">Descripción corta de tu segundo repositorio importante.</p>
+                <div class="repo-stats">
+                    <span class="repo-lang">
+                        <span class="lang-color" style="background: #563d7c;"></span>
+                        CSS
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-star"></i> 0
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-code-branch"></i> 0
+                    </span>
+                </div>
+            </div>
+            
+            <!-- Repo 3 -->
+            <div class="repo-card">
+                <div class="repo-header">
+                    <i class="fas fa-folder repo-icon"></i>
+                    <span class="repo-visibility">Público</span>
+                </div>
+                <h3 class="repo-name">
+                    <a href="#" target="_blank">Proyecto-3</a>
+                </h3>
+                <p class="repo-description">Descripción corta de tu tercer repositorio importante.</p>
+                <div class="repo-stats">
+                    <span class="repo-lang">
+                        <span class="lang-color" style="background: #e34c26;"></span>
+                        HTML
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-star"></i> 0
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-code-branch"></i> 0
+                    </span>
+                </div>
+            </div>
+            
+            <!-- Repo 4 -->
+            <div class="repo-card">
+                <div class="repo-header">
+                    <i class="fas fa-folder repo-icon"></i>
+                    <span class="repo-visibility">Público</span>
+                </div>
+                <h3 class="repo-name">
+                    <a href="#" target="_blank">Proyecto-4</a>
+                </h3>
+                <p class="repo-description">Descripción corta de tu cuarto repositorio importante.</p>
+                <div class="repo-stats">
+                    <span class="repo-lang">
+                        <span class="lang-color" style="background: #f1e05a;"></span>
+                        JavaScript
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-star"></i> 0
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-code-branch"></i> 0
+                    </span>
+                </div>
+            </div>
+            
+            <!-- Repo 5 -->
+            <div class="repo-card">
+                <div class="repo-header">
+                    <i class="fas fa-folder repo-icon"></i>
+                    <span class="repo-visibility">Público</span>
+                </div>
+                <h3 class="repo-name">
+                    <a href="#" target="_blank">Proyecto-5</a>
+                </h3>
+                <p class="repo-description">Descripción corta de tu quinto repositorio importante.</p>
+                <div class="repo-stats">
+                    <span class="repo-lang">
+                        <span class="lang-color" style="background: #563d7c;"></span>
+                        CSS
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-star"></i> 0
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-code-branch"></i> 0
+                    </span>
+                </div>
+            </div>
+            
+            <!-- Repo 6 -->
+            <div class="repo-card">
+                <div class="repo-header">
+                    <i class="fas fa-folder repo-icon"></i>
+                    <span class="repo-visibility">Público</span>
+                </div>
+                <h3 class="repo-name">
+                    <a href="#" target="_blank">Proyecto-6</a>
+                </h3>
+                <p class="repo-description">Descripción corta de tu sexto repositorio importante.</p>
+                <div class="repo-stats">
+                    <span class="repo-lang">
+                        <span class="lang-color" style="background: #e34c26;"></span>
+                        HTML
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-star"></i> 0
+                    </span>
+                    <span class="repo-stat">
+                        <i class="fas fa-code-branch"></i> 0
+                    </span>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+    
+    <!-- ✨ NOS CONTACTAMOS (FOOTER) -->
+    <footer class="footer">
+        <div class="footer-content">
+            <h2>💖 ¡Gracias por visitar mi portafolio!</h2>
+            <p>
+                🌟 Siempre estoy aprendiendo y mejorando. 
+                <br>¡No dudes en contactarme!
+            </p>
+            <div class="footer-social">
+                <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="mailto:tu-email@gmail.com">
+                    <i class="fas fa-envelope"></i>
+                </a>
+                <a href="https://github.com/tu-usuario" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+            <p class="footer-note">
+                Hecho con 💖 y mucho ☕ por Stepfanie
+            </p>
+        </div>
+    </footer>
+    
+    <!-- Tu JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
