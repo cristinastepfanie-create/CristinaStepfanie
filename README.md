@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Chile-FFB6C1?style=for-the-badge" alt="ubicación">
+  <img src="https://img.shields.io/badge/📍Talca-Chile-FFB6C1?style=for-the-badge" alt="ubicación">
 </p>
 
-<p>
+<p align="center">
 Me encuentro en una etapa inicial de mi carrera, donde cada proyecto representa una oportunidad de aprendizaje y mejora continua.
 
 Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con especial interés en el diseño de interfaces y la experiencia de usuario. Me motiva crecer profesionalmente, enfrentar nuevos desafíos y transformar ideas en soluciones digitales.
@@ -22,7 +22,7 @@ Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con
 
 <!-- 🖼️ BANNER PERSONALIZADO -->
 <div align="center">
-  <img src="[https://via.placeholder.com/800x300/ffb6c1/ffffff?text=Tu+Banner+Personalizado+🎨](https://cl.pinterest.com/pin/814377545162516707/)" 
+  <img src="[https://cl.pinterest.com/pin/814377545162516707/]" 
        alt="Banner Personalizado" 
        width="100%">
 </div>
