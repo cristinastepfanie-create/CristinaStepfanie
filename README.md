@@ -22,7 +22,7 @@ Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con
 
 <!-- 🖼️ BANNER PERSONALIZADO -->
 <div align="center">
-  <img src="[https://cl.pinterest.com/pin/814377545162516707/]" 
+  <img src="https://imgur.com/a/psHx1bR" 
        alt="Banner Personalizado" 
        width="100%">
 </div>
