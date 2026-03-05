@@ -51,181 +51,14 @@ Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con
 
 <br>
 
-<!-- 📱 PROYECTOS DESTACADOS -->
 <div align="center">
   <h2>🚀 Proyectos Destacados</h2>
-</div>
 
-<table>
-  <tr>
-    <!-- Proyecto 1: App Bursátil -->
-    <td width="50%">
-      <div align="center">
-        <h3>📊 App Bursátil</h3>
-        <img src="https://via.placeholder.com/350x200/87ceeb/ffffff?text=App+Bursátil" alt="App Bursátil" width="100%">
-        <p>Aplicación para seguir el mercado de valores en tiempo real.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
-          <img src="https://img.shields.io/badge/API-1572B6?style=flat-square&logo=api&logoColor=white" alt="API">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/📁_Código-333?style=for-the-badge" alt="Código">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/▶️_Demo-1572B6?style=for-the-badge" alt="Demo">
-          </a>
-        </p>
-      </div>
-    </td>
-    
-    <!-- Proyecto 2: Juego del Pollito -->
-    <td width="50%">
-      <div align="center">
-        <h3>🐣 Juego del Pollito</h3>
-        <img src="https://via.placeholder.com/350x200/ffb6c1/ffffff?text=Juego+Pollito" alt="Juego del Pollito" width="100%">
-        <p>Juego interactivo creado mientras aprendía JavaScript.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/📁_Código-333?style=for-the-badge" alt="Código">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/▶️_Demo-1572B6?style=for-the-badge" alt="Demo">
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
 
-<br>
-
-<!-- 📦 MIS 6 REPOSITORIOS IMPORTANTES -->
 <div align="center">
-  <h2>📦 Mis 6 Repositorios Top</h2>
+  <h2>📦 Mis Repositorios Top</h2>
 </div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <details open>
-        <summary><b>📁 Proyecto-1</b></summary>
-        <br>
-        <p>Descripción corta de tu primer repositorio importante.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language">
-          <img src="https://img.shields.io/badge/⭐-0-blue?style=flat-square" alt="Stars">
-          <img src="https://img.shields.io/badge/🍴-0-green?style=flat-square" alt="Forks">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Ver_Repositorio-333?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo">
-          </a>
-        </p>
-      </details>
-    </td>
-    
-    <td width="50%">
-      <details open>
-        <summary><b>📁 Proyecto-2</b></summary>
-        <br>
-        <p>Descripción corta de tu segundo repositorio importante.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-CSS-blue?style=flat-square" alt="Language">
-          <img src="https://img.shields.io/badge/⭐-0-blue?style=flat-square" alt="Stars">
-          <img src="https://img.shields.io/badge/🍴-0-green?style=flat-square" alt="Forks">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Ver_Repositorio-333?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo">
-          </a>
-        </p>
-      </details>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <details open>
-        <summary><b>📁 Proyecto-3</b></summary>
-        <br>
-        <p>Descripción corta de tu tercer repositorio importante.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-HTML-orange?style=flat-square" alt="Language">
-          <img src="https://img.shields.io/badge/⭐-0-blue?style=flat-square" alt="Stars">
-          <img src="https://img.shields.io/badge/🍴-0-green?style=flat-square" alt="Forks">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Ver_Repositorio-333?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo">
-          </a>
-        </p>
-      </details>
-    </td>
-    
-    <td width="50%">
-      <details open>
-        <summary><b>📁 Proyecto-4</b></summary>
-        <br>
-        <p>Descripción corta de tu cuarto repositorio importante.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language">
-          <img src="https://img.shields.io/badge/⭐-0-blue?style=flat-square" alt="Stars">
-          <img src="https://img.shields.io/badge/🍴-0-green?style=flat-square" alt="Forks">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Ver_Repositorio-333?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo">
-          </a>
-        </p>
-      </details>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <details open>
-        <summary><b>📁 Proyecto-5</b></summary>
-        <br>
-        <p>Descripción corta de tu quinto repositorio importante.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-CSS-blue?style=flat-square" alt="Language">
-          <img src="https://img.shields.io/badge/⭐-0-blue?style=flat-square" alt="Stars">
-          <img src="https://img.shields.io/badge/🍴-0-green?style=flat-square" alt="Forks">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Ver_Repositorio-333?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo">
-          </a>
-        </p>
-      </details>
-    </td>
-    
-    <td width="50%">
-      <details open>
-        <summary><b>📁 Proyecto-6</b></summary>
-        <br>
-        <p>Descripción corta de tu sexto repositorio importante.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-HTML-orange?style=flat-square" alt="Language">
-          <img src="https://img.shields.io/badge/⭐-0-blue?style=flat-square" alt="Stars">
-          <img src="https://img.shields.io/badge/🍴-0-green?style=flat-square" alt="Forks">
-        </p>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Ver_Repositorio-333?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo">
-          </a>
-        </p>
-      </details>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <!-- ✨ FOOTER -->
 <div align="center">
@@ -242,11 +75,4 @@ Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con
   <!-- GIF decorativo final -->
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="conexión">
   <em><b>¡Me encantaría conectar contigo!</b> 😊</em>
-</div>
-
-<!-- Estadísticas de GitHub (opcional) -->
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=merko&hide_border=true&bg_color=FFE4F0" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=merko&hide_border=true&bg_color=FFE4F0" alt="Top Languages" width="49%">
 </div>
