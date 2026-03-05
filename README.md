@@ -19,13 +19,7 @@ Me encuentro en una etapa inicial de mi carrera, donde cada proyecto representa 
 Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con especial interés en el diseño de interfaces y la experiencia de usuario. Me motiva crecer profesionalmente, enfrentar nuevos desafíos y transformar ideas en soluciones digitales.
 </p>
 
-<div align="center">
-  <img src="https://imgur.com/a/psHx1bR" 
-       alt="Banner Personalizado 🌸" 
-       width="100%" 
-       style="border-radius: 15px;">
-</div>
-
+![banner](https://github.com/user-attachments/assets/0da9b469-5ac5-4e79-bf16-d2f482ce350a)
 <br>
 
 <!-- 💻 TECNOLOGÍAS -->
