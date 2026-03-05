@@ -8,10 +8,16 @@
 <p align="center">
   <em>✨ Estoy comenzando en el mundo de Front-end. ✨</em>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Santiago,_Chile-FFB6C1?style=for-the-badge" alt="ubicación">
+  <img src="https://img.shields.io/badge/📍-Chile-FFB6C1?style=for-the-badge" alt="ubicación">
 </p>
 
+<p>
+Me encuentro en una etapa inicial de mi carrera, donde cada proyecto representa una oportunidad de aprendizaje y mejora continua.
+
+Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con especial interés en el diseño de interfaces y la experiencia de usuario. Me motiva crecer profesionalmente, enfrentar nuevos desafíos y transformar ideas en soluciones digitales.
+</p>
 
 
 <!-- 🖼️ BANNER PERSONALIZADO -->
