@@ -1,21 +1,18 @@
-# CristinaStepfanie
 <!-- 🌸 PÉTALOS DECORATIVOS (GIFs animados) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100" alt="pétalos rosados">
-</div>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif  " width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif  " width="21%" style="display:inline;">
 
 <!-- 👋 ENCABEZADO -->
 <h1 align="center">
-  🌸 Cristina Stepfanie <span style="font-size: 1.2rem;">👋</span>
+  🌸 Hola soy Cristina Stepfanie <span style="font-size: 1.2rem;">👋</span>
 </h1>
-
+<p align="center">
+  <em>✨ Estoy comenzando en el mundo de Front-end. ✨</em>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Santiago,_Chile-FFB6C1?style=for-the-badge" alt="ubicación">
 </p>
 
-<p align="center">
-  <em>✨ Aprendiz de Desarrollo Web ✨</em>
-</p>
+
 
 <!-- 🖼️ BANNER PERSONALIZADO -->
 <div align="center">
