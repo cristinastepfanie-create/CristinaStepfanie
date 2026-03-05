@@ -22,8 +22,7 @@ Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con
 
 <!-- 🖼️ BANNER PERSONALIZADO -->
 <div align="center">
-  <!-- ⚠️ CAMBIA ESTA IMAGEN POR TU BANNER -->
-  <img src="https://via.placeholder.com/800x300/ffb6c1/ffffff?text=Tu+Banner+Personalizado+🎨" 
+  <img src="[https://via.placeholder.com/800x300/ffb6c1/ffffff?text=Tu+Banner+Personalizado+🎨](https://cl.pinterest.com/pin/814377545162516707/)" 
        alt="Banner Personalizado" 
        width="100%">
 </div>
