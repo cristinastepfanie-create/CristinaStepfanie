@@ -25,10 +25,10 @@ Estoy construyendo una base sólida en tecnologías web y buenas prácticas, con
 <!-- 💻 TECNOLOGÍAS -->
 <div align="center">
   <h2>💻 Mis Tecnologías</h2>
-  
-  <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://camo.githubusercontent.com/9671f0d46a051a7e1a1c8d6c95b8887b543346f7bbd7b14387698769ac82066e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)" alt="HTML5" height="50">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50">
+  ![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DDA0DD?style=for-the-badge&logo=javascript&logoColor=black)
+![GIMP](https://img.shields.io/badge/GIMP-98FB98?style=for-the-badge&logo=gimp&logoColor=black)
 </div>
 
 <br>
